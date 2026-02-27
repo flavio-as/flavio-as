@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Flávio /FLAH-veo/ and I'm a dev student 👨🏽‍💻and kindergarten educator 🎋 from São Paulo, Brazil</p>
+<p align="left">My name is Flávio /FLAH-veow/ and I'm a dev student 👨🏽‍💻and kindergarten educator 🎋 from São Paulo, Brazil</p>
 
 ###
 
